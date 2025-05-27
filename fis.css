@@ -1,0 +1,6 @@
+#grid{display: grid; grid-template-columns: 30vw 40vw 30vw; grid-template-rows: 33vh 33vh 33vj;}
+body{text-align: center;}
+img {width: 25vw; height: 25vw; object-fit:cover; margin:1vw}
+#par{   height: 25vw;font-size: 30px; font-family: cursive;grid-column: 1/3; background-color: aquamarine; color:coral;display: flex; align-items: center; justify-content: center;}
+#footer{font-size: 30px; font-family: cursive; background-color: black; color: white; grid-column:1/4}
+#fis{font-size: 40px; font-family: cursive; background-color:aqua; color: blue; grid-column: 1/4;display: flex; align-items: center; justify-content: center;}
